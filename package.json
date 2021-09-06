@@ -1,0 +1,11 @@
+{
+  "name": "string-incrementor",
+  "version": "1.0.0",
+  "description": "Utility lib to increment strings in a sequencial and unique way. ",
+  "main": "stringIncremetor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Filgueiras",
+  "license": "ISC"
+}
