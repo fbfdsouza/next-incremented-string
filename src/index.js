@@ -1,0 +1,1 @@
+export { incrementString } from "./stringIncremetor";
