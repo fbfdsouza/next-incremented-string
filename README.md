@@ -1,17 +1,23 @@
 # string-incrementor
 
-Aboid having to create random string ids, by having string ids that are incremented
-in the similar way of how numbers are.
+Avoid having to create random string ids, by having them incremented in the similar way of how numbers are.
 
 # instalation
 
-`npm i string-incrementor --save`
+```bash
+# Using npm
+npm install string-incrementor
 
+# Using Yarn
+yarn add string-incrementor
 ```
 
+# how to use it
+
+```
 import incrementString from 'string-incrementor';
 
-const nextString = incrementingString("AAA");
+const nextString = incrementString("AAA");
+console.log(nextString);
 //AAB
-
 ```
