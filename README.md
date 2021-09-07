@@ -15,7 +15,7 @@ yarn add next-incremented-string
 # how to use it
 
 ```
-import incrementString from 'next-incremented-string';
+import { incrementString } from 'next-incremented-string';
 
 const nextString = incrementString("AAA");
 console.log(nextString);
