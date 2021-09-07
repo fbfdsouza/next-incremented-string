@@ -1,4 +1,4 @@
-# string-incrementor
+# next-incremented-string
 
 Avoid having to create random string ids, by having them incremented in the similar way of how numbers are.
 
@@ -6,16 +6,16 @@ Avoid having to create random string ids, by having them incremented in the simi
 
 ```bash
 # Using npm
-npm install string-incrementor
+npm install next-incremented-string
 
 # Using Yarn
-yarn add string-incrementor
+yarn add next-incremented-string
 ```
 
 # how to use it
 
 ```
-import incrementString from 'string-incrementor';
+import incrementString from 'next-incremented-string';
 
 const nextString = incrementString("AAA");
 console.log(nextString);

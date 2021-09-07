@@ -1,5 +1,5 @@
 {
-  "name": "string-incrementor",
+  "name": "next-incremented-string",
   "version": "1.0.0",
   "description": "Utility lib to increment strings in a sequencial and unique way. ",
   "main": "stringIncremetor.js",
